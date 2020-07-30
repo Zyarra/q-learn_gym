@@ -1,4 +1,5 @@
 # Q-Learning implementation
+![Qtable](/images/Q_formula.png)
 
 #### This Python project is an implementation of reinforcement learning, using Q-learning method with Numpy and OpenAI Gym environment.
 **Prerequisites:**
