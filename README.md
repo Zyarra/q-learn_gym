@@ -47,7 +47,9 @@ How often to render the environment, rendering takes much more time than the act
 How often capture stats.
 
 
+**The code itself can be found in the ql.py file**
 
 ## The end result in a single picture:
 ![Figure](/images/Figure_1.png)
 
+For any questions or comments feel free to contact me.
