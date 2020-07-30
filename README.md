@@ -16,8 +16,8 @@ In this implementation the goal is to get to know Reinforcement Learning and Q-l
 A car is on a one-dimensional track, positioned between two "mountains". The goal is to drive up the mountain on the right; however, the car's engine is not strong enough to scale the mountain in a single pass. Therefore, the only way to succeed is to drive back and forth to build up momentum.
 The **reward is 0 if we reach the goal, -1 if we don't.**
 
-![mountaincar.jpg]  
-(mountaincar.jpg)
+![Mountaincar](/images/mountaincar.jpg)
+
 
 **Method:**
 We are using *Q-Table*.
