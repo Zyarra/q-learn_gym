@@ -1,12 +1,12 @@
 # Q-Learning implementation
 
-####This Python project is an implementation of reinforcement learning, using Q-learning method with Numpy and OpenAI Gym environment.
-###Prerequisites:
-####Matplotlib(for visualisations)
-####Numpy(for all the computation)
-####Gym(the environment)
+#### This Python project is an implementation of reinforcement learning, using Q-learning method with Numpy and OpenAI Gym environment.
+**Prerequisites:**
+1. Matplotlib(for visualisations)
+2. Numpy(for all the computation)
+3. Gym(the environment)
 
-Introduction:
+**Introduction:**
 In this implementation the goal is to get to know Reinforcement Learning and Q-learning basics.
 
 Goal:
