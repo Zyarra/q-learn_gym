@@ -53,7 +53,7 @@ How often capture stats.
 
 **The code itself can be found in the ql.py file**
 
-## The end result in a single picture:
+## The end result in a single picture.
 ![Figure](/images/Figure_1.png)
 
 For any questions or comments feel free to contact me.
