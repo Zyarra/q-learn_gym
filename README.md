@@ -10,7 +10,8 @@
 The versions I'm using are available in the **requirements.txt**, but in theory most versions should suffice.
 
 **Introduction:**
-In this implementation the goal is to get to know Reinforcement Learning and Q-learning basics.
+In this implementation we want to get to know Reinforcement Learning and Q-learning.
+Q-Learning is practically useless in today's practice, but the basics are very important to learn.
 
 **Goal:**
 *MountainCar-V0*
