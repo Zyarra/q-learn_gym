@@ -58,3 +58,9 @@ How often capture stats.
 ![Figure](/images/Figure_1.png)
 
 For any questions or comments feel free to contact me.
+
+
+## Possible improvements:
+1) Hyperparameter Tuning - preferably using a library like **Optuna** instaed of random guessing.
+2) Using an algorithm from research papers instaed of Q-learning.
+   Q Learning is effective, but extremely slow and memory/space inefficient.
